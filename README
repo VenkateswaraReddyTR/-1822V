@@ -1,6 +1,1 @@
-echo "# -1822V" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Savanamvenky/-1822V.git
-git push -u origin master
+My new file
